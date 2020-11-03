@@ -11,7 +11,7 @@ function Home() {
       />
       <div className="home_row">
         <Product
-          id="124455"
+          id="124"
           title="The Lean Startup: How constant innovations"
           price={15.05}
           rating={5}
@@ -19,7 +19,7 @@ function Home() {
         />
 
         <Product
-          id="124455"
+          id="12455"
           title="The Lean Startup: How constant innovations"
           price={15.05}
           rating={5}
@@ -29,21 +29,21 @@ function Home() {
 
       <div className="home_row">
         <Product
-          id="124455"
+          id="24455"
           title="The Lean Startup: How constant innovations"
           price={15.05}
           rating={5}
           image="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333576876i/10127019._UY630_SR1200,630_.jpg"
         />
         <Product
-          id="124455"
+          id="124955"
           title="The Lean Startup: How constant innovations"
           price={15.05}
           rating={5}
           image="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333576876i/10127019._UY630_SR1200,630_.jpg"
         />
         <Product
-          id="124455"
+          id="124055"
           title="The Lean Startup: How constant innovations"
           price={15.05}
           rating={5}
@@ -52,7 +52,7 @@ function Home() {
       </div>
       <div className="home_row">
         <Product
-          id="124455"
+          id="124855"
           title="The Lean Startup: How constant innovations"
           price={15.05}
           rating={5}
