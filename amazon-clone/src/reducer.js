@@ -1,5 +1,3 @@
-import { ShoppingBasket } from "@material-ui/icons";
-
 export const initialState = {
     cart:[],
     user:null
